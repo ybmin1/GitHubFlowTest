@@ -1,0 +1,19 @@
+.keyboard_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  gap: 5px;
+}
+
+.keyboard_block {
+  width: 45px;
+  height: 60px;
+  background-color: #d3d6da;
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
